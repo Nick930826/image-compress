@@ -1,6 +1,6 @@
 # image-compress
 
-> An electron-vue project
+> 一个基于 electron 实现的图片压缩工具
 
 #### Build Setup
 
@@ -14,9 +14,10 @@ npm run dev
 # build electron application for production
 npm run build
 
-
 ```
 
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[8fae476](https://github.com/SimulatedGREG/electron-vue/tree/8fae4763e9d225d3691b627e83b9e09b56f6c935) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+#### 项目预览
+![](https://s.weituibao.com/1574050539468/demo1.gif)
+![](https://s.weituibao.com/1574058113055/demo2.gif)
+![](https://s.weituibao.com/1574061860452/demo3.gif)
+![](https://s.weituibao.com/1574068369492/demo4.gif)
