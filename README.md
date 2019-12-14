@@ -17,4 +17,4 @@ npm run build
 ```
 
 #### 项目预览
-![](https://s.weituibao.com/1574061860452/demo3.gif)
+![](http://s.weituibao.com/1576287005160/WeChate739c1282c36b2b41df502c8f84f5d7e.png)
